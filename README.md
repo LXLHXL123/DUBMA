@@ -5,6 +5,13 @@ This repository contains the implementations for the paper "Deep opinion-unaware
 Existing deep neural network (DNN)-based blind image quality assessment (BIQA) methods primarily rely on human-rated datasets for training. However, collecting human labels is extremely time-consuming and labour-intensive, posing a significant bottleneck for practical applications. To address this challenge, we propose a Deep opinion-Unaware BIQA model by learning and adapting from Multiple Annotators, termed DUBMA, 10 thereby eliminating the need for human annotations. Specifically, we first generate a large-scale set of distorted image pairs and then assign relative quality rankings using existing full-reference IQA models. The resulting dataset is subsequently employed for training our DUBMA. Due to the inherent discrepancies between synthetic and real-world distortions, a domain shift may occur. To address this, we propose an outlier-robust unsupervised domain adaptation approach leveraging optimal transport. This strategy effectively reduces the gap between synthetic and real-world distortion domains, thereby boosting the model’s adaptability and overall performance. Extensive experiments show that DUBMA outperforms existing opinion-unaware BIQA methods in terms of prediction accuracy across multiple datasets.
 
 ## Method
+### Prerequisites
+The release version of BIQA models were implemented and have been tested in Ubuntu 18.04 with
+* Python
+* PyTorch
+* Torchvision
+
+### Model
 To be continued.
 
 
