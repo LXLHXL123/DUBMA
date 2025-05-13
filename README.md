@@ -1,1 +1,2 @@
-# DUBMA
+# Deep opinion-unaware blind image quality assessment by learning and adapting from multiple annotators
+This repository contains the implementations for the paper "Deep opinion-unaware blind image quality assessment by learning and adapting from multiple annotators", Zhihua Wang*, Xuelin Liu*, Jiebin Yan, Chao Huang, Jie Wen, International Joint Conferences on Artificial Intelligence (IJCAI), 2025. (*Equal contribution)
