@@ -14,7 +14,7 @@ Please cite our papers if it helps your research:
 @inproceedings{wang2025ijcai,
 title={Deep opinion-unaware blind image quality assessment by learning and adapting from multiple annotators},
 author={Wang, Zhihua and Liu, Xuelin and Yan, Jiebin and Huang, Chao and Wen, Jie},
-booktitle={Thirty-Sixth AAAI Conference on Artificial Intelligence},
+booktitle={International Joint Conferences on Artificial Intelligence},
 pages={},
 year={2025}
 }
